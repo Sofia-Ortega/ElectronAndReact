@@ -36,7 +36,7 @@ Youtube Tutorials on React:
 
 
 
-### Learn More Electron
+## Learn More Electron
 
 Official Electron.js [Website](https://www.electronjs.org/)
   - [Documentation](https://www.electronjs.org/docs)
