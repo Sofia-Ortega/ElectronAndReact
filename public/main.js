@@ -12,18 +12,20 @@ function createWindow() {
   //to get access to Chrome dev tools
   win.webContents.openDevTools()
 
-  //win.loadFile('index.html')
+  //gets our React app running on localhost and displays it in the Electron window
   win.loadURL('http://localhost:3000/')
 }
 
 app.whenReady().then(createWindow)
 
+//quits app when you try to exit out
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {
     app.quit()
   }
 })
 
+//when app ready to go, electron window opens
 app.on('activate', () => {
   if(BrowserWindow.getAllWindows().length == 0) {
     createWindow()
