@@ -30,7 +30,7 @@ We will be combining React and Electron for this project! To test out this repos
 ## Learn More React
 
 Offical React.js [Website](https://reactjs.org/).
-  -  React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  -  React App [documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 Youtube Tutorials on React:
   - [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia) - Travesty Media
