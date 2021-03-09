@@ -8,7 +8,8 @@ We will be combining React and Electron for this project! To test out this repos
     Note: run this command in directory you want to project to show up in
     
 - **cd ElectronAndReact**
-    cd into whatever the repository is called - I believe it will be called ElectronAndReact
+
+    Travel in your terminal into whatever the repository is called - I believe it will be called ElectronAndReact
 
 - **yarn install**
 
