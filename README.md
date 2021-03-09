@@ -11,6 +11,10 @@ We will be combining React and Electron for this project! To test out this repos
 
     Travel in your terminal into whatever the repository is called - I believe it will be called ElectronAndReact
 
+- **npm install --global yarn**
+    
+    Installs yarn onto your computer
+
 - **yarn install**
 
     Installs all the dependencies you need to work on the project.
