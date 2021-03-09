@@ -2,14 +2,19 @@
 
 We will be combining React and Electron for this project! To test out this repository, run these commands:
 
-### `yarn install`
+**yarn install**
+
 Installs all the dependencies you need to work on the project.
 
-### `yarn start` or `npm run start`
+
+
+**yarn start** or **npm run start**
+
 Gets your React app up and running on  http://localhost:3000/ 
 
-### `npm run electron-start`
 
+
+**npm run electron-start**
 
 Starts up and electron and opens up an app window.\
 Note: only run this command until AFTER **yarn start** has finished running.
@@ -19,15 +24,20 @@ Note: only run this command until AFTER **yarn start** has finished running.
 
 ## Learn More React
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Offical React.js [Website](https://reactjs.org/).
+  -  React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Youtube Tutorials on React:
+  - [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia) - Travesty Media
+  - [Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44) - FreeCodeCamp.org
+
+
 
 ### Learn More Electron
 
-Official Electron.js [website](https://www.electronjs.org/)
-  [Documentation](https://www.electronjs.org/docs).
-  [Quick start guide](https://www.electronjs.org/docs/tutorial/quick-start).
+Official Electron.js [Website](https://www.electronjs.org/)
+  - [Documentation](https://www.electronjs.org/docs)
+  - [Quick start guide](https://www.electronjs.org/docs/tutorial/quick-start)
  
  
 
