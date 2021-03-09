@@ -6,6 +6,9 @@ We will be combining React and Electron for this project! To test out this repos
 
     Clones git repository to your computer
     Note: run this command in directory you want to project to show up in
+    
+- **cd ElectronAndReact**
+    cd into whatever the repository is called - I believe it will be called ElectronAndReact
 
 - **yarn install**
 
@@ -14,8 +17,6 @@ We will be combining React and Electron for this project! To test out this repos
 - **yarn start** or **npm run start**
 
     Gets your React app up and running on  http://localhost:3000/ 
-
-
 
 - **npm run electron-start**
 
